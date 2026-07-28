@@ -28,6 +28,27 @@ models.
 
 ## Projects
 
+### GPT-2 C++ Kernel Optimization
+
+**GPU Computing and Language Models · 2024**
+
+Optimized performance-critical CUDA kernels in a C++ implementation of
+GPT-2. Focused on improving the execution efficiency of core tensor
+operations used during model training and inference.
+
+**Technologies:** C++, CUDA
+
+### Military Supply Route Assessment System
+
+**Pathfinding and Data Integration · 2025**
+
+Co-developed a pathfinding system for assessing military logistics
+routes. Integrated Kakao and Korea Meteorological Administration APIs
+to associate localized real-time weather data with individual road
+segments and calculate suitable routes between origins and destinations.
+
+**Technologies:** Python
+
 ### N-Pendulum Simulation
 
 **Physics Simulation and Numerical Analysis · 2022**
@@ -47,15 +68,6 @@ bow-and-arrow mechanics, target interaction, and a time-attack game mode
 using the Unity XR environment.
 
 **Technologies:** Unity 3D, C#
-
-### Military Supply Route Assessment System
-
-**Pathfinding and Data Integration · 2025**
-
-Co-developed a pathfinding system for assessing military logistics
-routes. Integrated Kakao and Korea Meteorological Administration APIs
-to associate localized real-time weather data with individual road
-segments and calculate suitable routes between origins and destinations.
 
 ## Honors and Awards
 
