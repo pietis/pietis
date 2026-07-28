@@ -1,9 +1,9 @@
 # Junseo Oh
 
 I am an undergraduate at Seoul National University studying Physics and
-Computer Science and Engineering. My long-term goal is to develop
+Computer Science and Engineering. **My long-term goal is to develop
 computational systems that blur the boundary between the physical and
-virtual worlds.
+virtual worlds.**
 
 My research interests include computer graphics and rendering,
 physics-based simulation, graph algorithms, high-performance computing,
