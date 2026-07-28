@@ -82,6 +82,7 @@ using the Unity XR environment.
 
 - **solved.ac:** `ojs8879` — peak rating: 2602
 - **Codeforces:** `pieta` — peak rating: 1681
+- Currently trying some GPU kernel Problem Solving.
 
 ## Contact
 
